@@ -3,7 +3,6 @@ include("Assets/Connection/Connection.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <title>STELLER POWER SOLUTION</title>
